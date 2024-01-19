@@ -1,5 +1,6 @@
 # Mp3 Player
-DSA Project Submitted to Sir Hilmand
+DSA Lab Project
+Instructor: Sir Hilmand Khan
 
 Project Members:
 
